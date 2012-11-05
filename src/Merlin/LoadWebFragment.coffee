@@ -1,0 +1,3 @@
+
+LoadWebFragment: (url, fragSpec, opts) ->
+
